@@ -1,0 +1,104 @@
+1. C oyuncusu yeteneði ile  22,2 alanýndaki altýný buldu
+1. C oyuncusu hedef olarak 22,1 alanýný belirledi.(-15) mevcut altýn=185
+1. C oyuncusu turunu 26,0 alanýnda tamamladý(-5) mevcut altýn=180
+2. C oyuncusu yeteneði ile  19,2 alanýndaki altýný buldu
+2. C oyuncusu turunu 23,0 alanýnda tamamladý(-5) mevcut altýn=175
+3. C oyuncusu yeteneði ile  20,7 alanýndaki altýný buldu
+3. C oyuncusu 22,1 alanýndaki 20 altýný aldý.Mevcut altýn =195
+3. C oyuncusu turunu 22,1 alanýnda tamamladý(-5) mevcut altýn=190
+4. C oyuncusu yeteneði ile  22,10 alanýndaki altýný buldu
+4. C oyuncusu hedef olarak 21,1 alanýný belirledi.(-15) mevcut altýn=175
+4. C oyuncusu 21,1 alanýndaki 15 altýný aldý.Mevcut altýn =190
+4. C oyuncusu turunu 21,1 alanýnda tamamladý(-5) mevcut altýn=185
+5. C oyuncusu yeteneði ile  12,4 alanýndaki altýný buldu
+5. C oyuncusu hedef olarak 21,4 alanýný belirledi.(-15) mevcut altýn=170
+5. C oyuncusu 21,4 alanýndaki 20 altýný aldý.Mevcut altýn =190
+5. C oyuncusu turunu 21,4 alanýnda tamamladý(-5) mevcut altýn=185
+6. C oyuncusu yeteneði ile  12,8 alanýndaki altýný buldu
+6. C oyuncusu hedef olarak 19,8 alanýný belirledi.(-15) mevcut altýn=170
+6. C oyuncusu turunu 19,5 alanýnda tamamladý(-5) mevcut altýn=165
+7. C oyuncusu yeteneði ile  10,5 alanýndaki altýný buldu
+7. C oyuncusu 19,8 alanýndaki 20 altýný aldý.Mevcut altýn =185
+7. C oyuncusu turunu 19,8 alanýnda tamamladý(-5) mevcut altýn=180
+8. C oyuncusu yeteneði ile  13,13 alanýndaki altýný buldu
+8. C oyuncusu hedef olarak 15,9 alanýný belirledi.(-15) mevcut altýn=165
+8. C oyuncusu 18,8 alanýndaki 10 altýný aldý.Mevcut altýn =175
+8. C oyuncusu 16,8 alanýndaki 5 altýný aldý.Mevcut altýn =180
+8. C oyuncusu turunu 16,8 alanýnda tamamladý(-5) mevcut altýn=175
+9. C oyuncusu yeteneði ile  8,12 alanýndaki altýný buldu
+9. C oyuncusu 15,9 alanýndaki 20 altýný aldý.Mevcut altýn =195
+9. C oyuncusu turunu 15,9 alanýnda tamamladý(-5) mevcut altýn=190
+10. C oyuncusu yeteneði ile  7,3 alanýndaki altýný buldu
+10. C oyuncusu hedef olarak 11,7 alanýný belirledi.(-15) mevcut altýn=175
+10. C oyuncusu 12,9 alanýndaki 10 altýný aldý.Mevcut altýn =185
+10. C oyuncusu turunu 12,9 alanýnda tamamladý(-5) mevcut altýn=180
+11. C oyuncusu yeteneði ile  3,10 alanýndaki altýný buldu
+11. C oyuncusu 11,7 alanýndaki 20 altýný aldý.Mevcut altýn =200
+11. C oyuncusu turunu 11,7 alanýnda tamamladý(-5) mevcut altýn=195
+12. C oyuncusu hedef olarak 8,4 alanýný belirledi.(-15) mevcut altýn=180
+12. C oyuncusu 10,7 alanýndaki 5 altýný aldý.Mevcut altýn =185
+12. C oyuncusu 8,7 alanýndaki 15 altýný aldý.Mevcut altýn =200
+12. C oyuncusu turunu 8,7 alanýnda tamamladý(-5) mevcut altýn=195
+13. C oyuncusu hedef olarak 5,7 alanýný belirledi.(-15) mevcut altýn=180
+13. C oyuncusu 7,7 alanýndaki 15 altýný aldý.Mevcut altýn =195
+13. C oyuncusu 5,7 alanýndaki 15 altýný aldý.Mevcut altýn =210
+13. C oyuncusu turunu 5,7 alanýnda tamamladý(-5) mevcut altýn=205
+14. C oyuncusu hedef olarak 5,10 alanýný belirledi.(-15) mevcut altýn=190
+14. C oyuncusu 5,10 alanýndaki 10 altýný aldý.Mevcut altýn =200
+14. C oyuncusu turunu 5,10 alanýnda tamamladý(-5) mevcut altýn=195
+15. C oyuncusu hedef olarak 7,9 alanýný belirledi.(-15) mevcut altýn=180
+15. C oyuncusu 6,10 alanýndaki 5 altýný aldý.Mevcut altýn =185
+15. C oyuncusu 7,10 alanýndaki 10 altýný aldý.Mevcut altýn =195
+15. C oyuncusu 7,9 alanýndaki 15 altýný aldý.Mevcut altýn =210
+15. C oyuncusu turunu 7,9 alanýnda tamamladý(-5) mevcut altýn=205
+16. C oyuncusu hedef olarak 7,8 alanýný belirledi.(-15) mevcut altýn=190
+16. C oyuncusu 7,8 alanýndaki 10 altýný aldý.Mevcut altýn =200
+16. C oyuncusu turunu 7,8 alanýnda tamamladý(-5) mevcut altýn=195
+17. C oyuncusu hedef olarak 8,1 alanýný belirledi.(-15) mevcut altýn=180
+17. C oyuncusu turunu 8,6 alanýnda tamamladý(-5) mevcut altýn=175
+18. C oyuncusu turunu 8,3 alanýnda tamamladý(-5) mevcut altýn=170
+19. C oyuncusu 8,1 alanýndaki 20 altýný aldý.Mevcut altýn =190
+19. C oyuncusu turunu 8,1 alanýnda tamamladý(-5) mevcut altýn=185
+20. C oyuncusu hedef olarak 9,10 alanýný belirledi.(-15) mevcut altýn=170
+20. C oyuncusu turunu 9,3 alanýnda tamamladý(-5) mevcut altýn=165
+21. C oyuncusu turunu 9,6 alanýnda tamamladý(-5) mevcut altýn=160
+22. C oyuncusu turunu 9,9 alanýnda tamamladý(-5) mevcut altýn=155
+23. C oyuncusu 9,10 alanýndaki 10 altýný aldý.Mevcut altýn =165
+23. C oyuncusu turunu 9,10 alanýnda tamamladý(-5) mevcut altýn=160
+24. C oyuncusu hedef olarak 12,8 alanýný belirledi.(-15) mevcut altýn=145
+24. C oyuncusu turunu 12,10 alanýnda tamamladý(-5) mevcut altýn=140
+25. C oyuncusu hedef olarak 11,13 alanýný belirledi.(-15) mevcut altýn=125
+25. C oyuncusu turunu 11,12 alanýnda tamamladý(-5) mevcut altýn=120
+26. C oyuncusu 11,13 alanýndaki 5 altýný aldý.Mevcut altýn =125
+26. C oyuncusu turunu 11,13 alanýnda tamamladý(-5) mevcut altýn=120
+27. C oyuncusu hedef olarak 14,14 alanýný belirledi.(-15) mevcut altýn=105
+27. C oyuncusu turunu 14,13 alanýnda tamamladý(-5) mevcut altýn=100
+28. C oyuncusu 14,14 alanýndaki 5 altýný aldý.Mevcut altýn =105
+28. C oyuncusu turunu 14,14 alanýnda tamamladý(-5) mevcut altýn=100
+29. C oyuncusu hedef olarak 17,14 alanýný belirledi.(-15) mevcut altýn=85
+29. C oyuncusu 17,14 alanýndaki 5 altýný aldý.Mevcut altýn =90
+29. C oyuncusu turunu 17,14 alanýnda tamamladý(-5) mevcut altýn=85
+30. C oyuncusu hedef olarak 19,13 alanýný belirledi.(-15) mevcut altýn=70
+30. C oyuncusu 19,13 alanýndaki 10 altýný aldý.Mevcut altýn =80
+30. C oyuncusu turunu 19,13 alanýnda tamamladý(-5) mevcut altýn=75
+31. C oyuncusu hedef olarak 21,10 alanýný belirledi.(-15) mevcut altýn=60
+31. C oyuncusu turunu 21,12 alanýnda tamamladý(-5) mevcut altýn=55
+32. C oyuncusu hedef olarak 23,11 alanýný belirledi.(-15) mevcut altýn=40
+32. C oyuncusu 23,11 alanýndaki 10 altýný aldý.Mevcut altýn =50
+32. C oyuncusu turunu 23,11 alanýnda tamamladý(-5) mevcut altýn=45
+33. C oyuncusu hedef olarak 27,8 alanýný belirledi.(-15) mevcut altýn=30
+33. C oyuncusu turunu 26,11 alanýnda tamamladý(-5) mevcut altýn=25
+34. C oyuncusu turunu 27,9 alanýnda tamamladý(-5) mevcut altýn=20
+35. C oyuncusu 27,8 alanýndaki 20 altýný aldý.Mevcut altýn =40
+35. C oyuncusu turunu 27,8 alanýnda tamamladý(-5) mevcut altýn=35
+36. C oyuncusu hedef olarak 25,7 alanýný belirledi.(-15) mevcut altýn=20
+36. C oyuncusu 25,8 alanýndaki 10 altýný aldý.Mevcut altýn =30
+36. C oyuncusu 25,7 alanýndaki 10 altýný aldý.Mevcut altýn =40
+36. C oyuncusu turunu 25,7 alanýnda tamamladý(-5) mevcut altýn=35
+37. C oyuncusu hedef olarak 27,5 alanýný belirledi.(-15) mevcut altýn=20
+37. C oyuncusu turunu 27,6 alanýnda tamamladý(-5) mevcut altýn=15
+38. C oyuncusu 27,5 alanýndaki 5 altýný aldý.Mevcut altýn =20
+38. C oyuncusu turunu 27,5 alanýnda tamamladý(-5) mevcut altýn=15
+39. C oyuncusu hedef olarak 2,9 alanýný belirledi.(-15) mevcut altýn=0
+39. C oyuncusu turunu 24,5 alanýnda tamamladý(-5) mevcut altýn=-5
+39. C oyuncusunun parasý bitti.Artýk devam edemez!.Kalan oyuncu =2
